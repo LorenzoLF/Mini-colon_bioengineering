@@ -1,0 +1,13 @@
+Sample	Group	Name
+1a.dR4_G7	dR4	Control_rep1
+1b.dR4_G8	dR4	Control_rep2
+1c.dR4_G9	dR4	Control_rep3
+2a.AKP_shGpx2_G10	AKP_shGpx2	shGpx2_rep1
+2b.AKP_shGpx2_G11	AKP_shGpx2	shGpx2_rep2
+2c.AKP_shGpx2_G12	AKP_shGpx2	shGpx2_rep3
+3a.dR4_FT_2w_G31	dR4_FT_2w	Control_AKP_rep1
+3b.dR4_FT_2w_G32	dR4_FT_2w	Control_AKP_rep2
+3c.dR4_FT_2w_G33	dR4_FT_2w	Control_AKP_rep3
+4a.AKP_shGpx2_FT_2w_G34	AKP_shGpx2_FT_2w	shGpx2_AKP_rep1
+4b.AKP_shGpx2_FT_2w_G35	AKP_shGpx2_FT_2w	shGpx2_AKP_rep2
+4c.AKP_shGpx2_FT_2w_G36	AKP_shGpx2_FT_2w	shGpx2_AKP_rep3
