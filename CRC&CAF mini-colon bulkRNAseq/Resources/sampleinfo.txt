@@ -1,0 +1,10 @@
+Sample	Group	Name
+1.ch_1FMS_ctrl_1_S7_R1_001	ctrl	Control_rep1
+2.ch_1FMS_ctrl_2_S8_R1_001	ctrl	Control_rep2
+3.ch_1FMS_ctrl_3_S9_R1_001	ctrl	Control_rep3
+4.ch_1FMS_cm_1_S10_R1_001	cm	CM_rep1
+5.ch_1FMS_cm_2_S11_R1_001	cm	CM_rep2
+6.ch_1FMS_cm_3_S12_R1_001	cm	CM_rep3
+7.ch_1FMS_caf_1_S13_R1_001	caf	CAF_rep1
+8.ch_1FMS_caf_2_S14_R1_001	caf	CAF_rep2
+9.ch_1FMS_caf_3_S15_R1_001	caf	CAF_rep3
