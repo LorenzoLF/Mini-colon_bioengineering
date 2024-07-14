@@ -5,7 +5,7 @@ Analyses of bulk and single-cell RNAseq data from mouse mini-colons published in
 - Gpx2 KD bulkRNAseq
 - Mini-colon scRNAseq
 
-Analyses of bulk and single-cell RNAseq data from human CRC mini-colons and tumoroids published in **Lorenzo-Martín et al. _Biofabricated patient-derived mini-colons as next-generation colorectal cancer organoids_ (Nature Biotechnology, 2024)**:
+Analyses of bulk and single-cell RNAseq data from human CRC mini-colons and tumoroids published in **Lorenzo-Martín et al. _Patient-derived mini-colons enable long-term modeling of tumor–microenvironment complexity_ (Nature Biotechnology, 2024)**:
 
 - CRC&CAF mini-colon bulkRNAseq
 - CRC&CAF scRNAseq
