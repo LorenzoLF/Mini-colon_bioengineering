@@ -9,3 +9,7 @@ Analyses of bulk and single-cell RNAseq data from human CRC mini-colons and tumo
 
 - CRC&CAF mini-colon bulkRNAseq
 - CRC&CAF scRNAseq
+
+Laser ablation templates for mouse and human mini-colon scaffolds published in **Lorenzo-Martín et al. _Bioengineering mini-colons for ex vivo colorectal cancer research_ (Nature Protocols, submitted)**:
+
+- Mini-colon laser ablation templates
